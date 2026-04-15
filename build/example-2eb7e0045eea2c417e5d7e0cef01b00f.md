@@ -1,0 +1,27 @@
+# Example
+
+In this lesson, we will illustrate the capabilities of Python by running and
+editing pre-existing code.
+
+This program:
+1. Opens a `.csv` file containing UV-Vis absorption data
+2. Converts its wavelength units to energy units
+3. Finds all peaks in the data
+4. Plots the spectrum and peaks to a scientific standard
+5. Saves the figure as a `.pdf`
+
+## Preparing your folder
+
+The easiest way to allow Python programs to interact with files is to store the
+source code in the same folder as the file. In this case, we need our `.py` file
+and `.csv` files in the same place.
+
+<div class="alert">
+HELLO
+</div>
+
+<div class="alert">
+  <span class="closebtn"
+onclick="this.parentElement.style.display='none';">&times;</span>
+  This is an alert box.
+</div>
