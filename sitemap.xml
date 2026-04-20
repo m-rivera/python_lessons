@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://localhost:3001</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/landing</loc>
+    <loc>http://localhost:3001/first-steps/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/write-run-python</loc>
+    <loc>http://localhost:3001/first-steps/write-run-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/example</loc>
+    <loc>http://localhost:3001/first-steps/example</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/landing</loc>
+    <loc>http://localhost:3001/variables/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/data-types</loc>
+    <loc>http://localhost:3001/variables/data-types</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/lists</loc>
+    <loc>http://localhost:3001/variables/lists</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/mathematical-operators</loc>
+    <loc>http://localhost:3001/variables/mathematical-operators</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/landing</loc>
+    <loc>http://localhost:3001/control-flow/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/if-statements</loc>
+    <loc>http://localhost:3001/control-flow/if-statements</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/for-loops</loc>
+    <loc>http://localhost:3001/control-flow/for-loops</loc>
   </url>
 </urlset>
