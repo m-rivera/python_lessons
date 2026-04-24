@@ -37,4 +37,28 @@
   <url>
     <loc>http://localhost:3000/control-flow/while-loops</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/control-flow/functions</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/files/landing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/api/landing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/exercises/landing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/exercises/exercise-1/ex-1</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/exercises/exercise-2/ex-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/exercises/exercise-3/ex-3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/exercises/exercise-4/ex-4</loc>
+  </url>
 </urlset>
