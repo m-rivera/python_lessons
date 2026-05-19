@@ -5,60 +5,81 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/landing</loc>
+    <loc>http://localhost:3000/lessons/first-steps/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/write-run-python</loc>
+    <loc>http://localhost:3000/lessons/first-steps/write-run-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/first-steps/example</loc>
+    <loc>http://localhost:3000/lessons/first-steps/example</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/landing</loc>
+    <loc>http://localhost:3000/lessons/variables/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/data-types</loc>
+    <loc>http://localhost:3000/lessons/variables/data-types</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/lists</loc>
+    <loc>http://localhost:3000/lessons/variables/lists</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/variables/mathematical-operators</loc>
+    <loc>http://localhost:3000/lessons/variables/mathematical-operators</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/landing</loc>
+    <loc>http://localhost:3000/lessons/control-flow/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/if-statements</loc>
+    <loc>http://localhost:3000/lessons/control-flow/if-statements</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/for-loops</loc>
+    <loc>http://localhost:3000/lessons/control-flow/for-loops</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/while-loops</loc>
+    <loc>http://localhost:3000/lessons/control-flow/while-loops</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/control-flow/functions</loc>
+    <loc>http://localhost:3000/lessons/control-flow/functions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/files/landing</loc>
+    <loc>http://localhost:3000/lessons/files/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/api/landing</loc>
+    <loc>http://localhost:3000/lessons/exercises/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/exercises/landing</loc>
+    <loc>http://localhost:3000/lessons/exercises/exercise-1/ex-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/exercises/exercise-1/ex-1</loc>
+    <loc>http://localhost:3000/lessons/exercises/exercise-2/ex-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/exercises/exercise-2/ex-2</loc>
+    <loc>http://localhost:3000/lessons/exercises/exercise-3/ex-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/exercises/exercise-3/ex-3</loc>
+    <loc>http://localhost:3000/lessons/exercises/exercise-4/ex-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/exercises/exercise-4/ex-4</loc>
+    <loc>http://localhost:3000/2026-meeting</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/2025-meeting</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/state-of-teaching</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/resources</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/community-docs/code-of-conduct</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/community-docs/contributing</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/educational-resources/linked-resources</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/educational-resources/contributing</loc>
   </url>
 </urlset>
