@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-S44FZDB3.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"https://m-rivera.github.io/python_lessons//build/_shared/chunk-S44FZDB3.js";import"https://m-rivera.github.io/python_lessons//build/_shared/chunk-OZE3FFNP.js";export default a();
