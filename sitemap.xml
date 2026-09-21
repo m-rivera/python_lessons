@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3003/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3004/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3003</loc>
+    <loc>http://localhost:3004</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/lessons-intro</loc>
+    <loc>http://localhost:3004/lessons/lessons-intro</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/first-steps/landing</loc>
+    <loc>http://localhost:3004/lessons/first-steps/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/first-steps/write-run-python</loc>
+    <loc>http://localhost:3004/lessons/first-steps/write-run-python</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/first-steps/example</loc>
+    <loc>http://localhost:3004/lessons/first-steps/example</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/variables/landing</loc>
+    <loc>http://localhost:3004/lessons/variables/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/variables/data-types</loc>
+    <loc>http://localhost:3004/lessons/variables/data-types</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/variables/lists</loc>
+    <loc>http://localhost:3004/lessons/variables/lists</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/variables/mathematical-operators</loc>
+    <loc>http://localhost:3004/lessons/variables/mathematical-operators</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/control-flow/landing</loc>
+    <loc>http://localhost:3004/lessons/control-flow/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/control-flow/if-statements</loc>
+    <loc>http://localhost:3004/lessons/control-flow/if-statements</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/control-flow/for-loops</loc>
+    <loc>http://localhost:3004/lessons/control-flow/for-loops</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/control-flow/while-loops</loc>
+    <loc>http://localhost:3004/lessons/control-flow/while-loops</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/control-flow/functions</loc>
+    <loc>http://localhost:3004/lessons/control-flow/functions</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/files/landing</loc>
+    <loc>http://localhost:3004/lessons/files/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/exercises/landing</loc>
+    <loc>http://localhost:3004/lessons/exercises/landing</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/exercises/exercise-1/ex-1</loc>
+    <loc>http://localhost:3004/lessons/exercises/exercise-1/ex-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/exercises/exercise-2/ex-2</loc>
+    <loc>http://localhost:3004/lessons/exercises/exercise-2/ex-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/exercises/exercise-3/ex-3</loc>
+    <loc>http://localhost:3004/lessons/exercises/exercise-3/ex-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3003/lessons/exercises/exercise-4/ex-4</loc>
+    <loc>http://localhost:3004/lessons/exercises/exercise-4/ex-4</loc>
   </url>
 </urlset>
