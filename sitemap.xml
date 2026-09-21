@@ -5,6 +5,9 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/lessons/lessons-intro</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/lessons/first-steps/landing</loc>
   </url>
   <url>
@@ -57,29 +60,5 @@
   </url>
   <url>
     <loc>http://localhost:3000/lessons/exercises/exercise-4/ex-4</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/2026-meeting</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/2025-meeting</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/state-of-teaching</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/resources</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/community-docs/code-of-conduct</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/community-docs/contributing</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/educational-resources/linked-resources</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/educational-resources/contributing</loc>
   </url>
 </urlset>
